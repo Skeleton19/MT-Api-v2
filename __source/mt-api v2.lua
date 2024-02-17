@@ -13,7 +13,7 @@ local i={}
 local j=0;
 local k=0;
 local l=0;
-local function m()
+local function p()
   if not getrawmetatable then 
     error("mt-api: Exploit not supported")
   end;
